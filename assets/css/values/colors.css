@@ -1,0 +1,14 @@
+:root {
+    color-scheme: light;
+    --primary-color: #0071eb;
+    --emphasis-color: #149eca;
+    --border-color: #cccccc77;
+    --box-shadow: #77777777;
+    --card-color: #f3f4f6;
+    --modal-color: #ffffff;
+    --card-emphasis-color: #fff3cd;
+    --body-color: #ffffff;
+    --text-color: #212529;
+    --secondary-color: #5f5f5f;
+    --muted-color: #aaacad;
+}

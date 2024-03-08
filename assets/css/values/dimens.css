@@ -1,0 +1,10 @@
+:root {
+    --large-spacing: 4.5rem;
+    --medium-spacing: 3rem;
+    --small-spacing: 1.5rem;
+    --small-negative-spacing: -1.5rem;
+    --x-small-spacing: .75rem;
+    --x-small-negative-spacing: -.75rem;
+    --xx-small-spacing: .375rem;
+    --xx-small-negative-spacing: -.375rem;
+}
